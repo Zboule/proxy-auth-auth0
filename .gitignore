@@ -1,0 +1,6 @@
+node_modules/
+platforms/
+www/
+.vscode
+plugins
+cordova-typings.d.ts
